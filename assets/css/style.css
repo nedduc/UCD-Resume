@@ -389,7 +389,6 @@ button[type="submit"] {
 /*--------------------------------------------Map*/
 div#map {
     min-height: 360px;
-    background-color: magenta;
 }
 
 /*--------------------------------------------Media Queries*/
